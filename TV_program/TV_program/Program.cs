@@ -17,7 +17,6 @@ namespace TV_program
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            Console.WriteLine("We are going to the git!!!!");
 
         }
     }
