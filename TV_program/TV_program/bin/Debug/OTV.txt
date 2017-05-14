@@ -1,0 +1,147 @@
+Понедельник
+08:00O-tv every day
+08:15Interactive
+09:00О-tv кіно
+09:20Interactive
+11:05Tv sales
+12:05Interactive
+13:00O-tv every day
+13:15Interactive
+16:00O-tv every day
+16:15Interactive
+17:10Tv sales
+18:10Interactive
+19:00O-tv every day
+19:15Interactive
+20:00Модна правда
+20:20Interactive
+21:00O-tv every day
+21:15Interactive
+22:10Tv sales
+23:00Interactive
+03:00Interactive
+Вторник
+08:00O-tv every day
+08:15Interactive
+09:00O 20
+10:20Interactive
+11:05Tv sales
+12:05Interactive
+13:00O-tv every day
+13:15Interactive
+16:00O-tv every day
+16:15Interactive
+17:10Tv sales
+18:10Interactive
+19:00O-tv every day
+19:15Interactive
+21:00O-tv every day
+21:15Interactive
+22:10Tv sales
+23:0018 +
+23:30Interactive
+03:00Interactive
+Среда
+08:00O-tv every day
+08:15Interactive
+09:00Модна правда
+09:20Interactive
+11:05Tv sales
+12:05Interactive
+13:00O-tv every day
+13:15Interactive
+14:00O 20
+15:00Interactive
+16:00O-tv every day
+16:15Interactive
+17:10Tv sales
+18:10Interactive
+19:00O-tv every day
+19:15Interactive
+21:00O-tv every day
+21:15Interactive
+22:10Tv sales
+23:00Interactive
+03:00Interactive
+Четверг
+08:00O-tv every day
+08:15Interactive
+11:05Tv sales
+12:05Interactive
+13:00O-tv every day
+13:15Interactive
+16:00O-tv every day
+16:15Interactive
+17:10Tv sales
+18:10Interactive
+19:00O-tv every day
+19:15Interactive
+21:00O-tv every day
+21:15Interactive
+22:10Tv sales
+23:00Interactive
+03:00Interactive
+Пятница
+08:00O-tv every day
+08:15Interactive
+11:05Tv sales
+12:05Interactive
+13:00O-tv every day
+13:15Interactive
+14:00Модна правда
+14:20Interactive
+16:00O-tv every day
+16:15Interactive
+17:10Tv sales
+18:10Interactive
+19:00O-tv every day
+19:15Interactive
+20:00О-tv кіно
+20:20Interactive
+21:00O-tv every day
+21:15Interactive
+22:10Tv sales
+23:00Interactive
+03:00Interactive
+Суббота
+08:00O-tv про-ньюз
+08:15Interactive
+11:05Tv sales
+12:05Interactive
+13:00O-tv про-ньюз
+13:15Interactive
+14:00О-tv кіно
+14:20Interactive
+16:00O-tv про-ньюз
+16:15Interactive
+17:10Tv sales
+18:10Модна правда
+18:25Interactive
+19:00O-tv про-ньюз
+19:15Interactive
+20:00O 20
+21:00O-tv про-ньюз
+21:15Interactive
+22:10Tv sales
+23:00Interactive
+03:00Interactive
+Воскресенье
+08:00Sunday News
+08:30Interactive
+11:05Tv sales
+12:05Interactive
+13:00Sunday News
+13:30Interactive
+16:00Sunday News
+16:30Interactive
+17:10Tv sales
+18:10Interactive
+19:00Sunday News
+19:30Interactive
+21:00Sunday News
+21:30Interactive
+22:10Tv sales
+23:0018 +
+23:30Interactive
+03:00Interactive
+
