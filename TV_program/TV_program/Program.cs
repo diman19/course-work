@@ -17,7 +17,12 @@ namespace TV_program
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+<<<<<<< HEAD
             Console.WriteLine();
+=======
+            Console.WriteLine("We are going to the git!!!!");
+
+>>>>>>> parent of 19d2838... second commit
         }
     }
     
