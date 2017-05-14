@@ -10,3 +10,9 @@ E:\Хирятня\Курсовая работа\TV_program\TV_program\obj\Debug\
 E:\C#\Repository\TV_program\TV_program\bin\Debug\TV_program.exe.config
 E:\C#\Repository\TV_program\TV_program\obj\Debug\TV_program.exe
 E:\C#\Repository\TV_program\TV_program\obj\Debug\TV_program.pdb
+E:\C#\Repository\TV_program\TV_program\bin\Debug\TV_program.exe
+E:\C#\Repository\TV_program\TV_program\bin\Debug\TV_program.pdb
+E:\C#\Repository\TV_program\TV_program\obj\Debug\TV_program.csprojResolveAssemblyReference.cache
+E:\C#\Repository\TV_program\TV_program\obj\Debug\TV_program.Form1.resources
+E:\C#\Repository\TV_program\TV_program\obj\Debug\TV_program.Properties.Resources.resources
+E:\C#\Repository\TV_program\TV_program\obj\Debug\TV_program.csproj.GenerateResource.Cache
